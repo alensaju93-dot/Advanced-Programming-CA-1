@@ -1,0 +1,21 @@
+Hotel_Name,Room_Category,Price_Per_Night
+Azure Coast Resort,Economy Room,€80
+Azure Coast Resort,Standard Double,€110
+Azure Coast Resort,Sea View Double,€140
+Azure Coast Resort,Superior Double,€165
+Azure Coast Resort,Junior Suite,€195
+Azure Coast Resort,Family Suite,€220
+Azure Coast Resort,Executive Suite,€260
+Azure Coast Resort,Honeymoon Suite,€290
+Azure Coast Resort,Penthouse,€340
+Azure Coast Resort,Presidential Suite,€420
+Silver Peak Mountain Hotel,Budget Single,€70
+Silver Peak Mountain Hotel,Classic Single,€90
+Silver Peak Mountain Hotel,Standard Twin,€115
+Silver Peak Mountain Hotel,Mountain View Twin,€135
+Silver Peak Mountain Hotel,Deluxe Twin,€155
+Silver Peak Mountain Hotel,Family Room,€185
+Silver Peak Mountain Hotel,Studio Apartment,€210
+Silver Peak Mountain Hotel,Panorama Suite,€250
+Silver Peak Mountain Hotel,Luxury Chalet,€320
+Silver Peak Mountain Hotel,Royal Lodge,€390

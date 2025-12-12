@@ -1,0 +1,30 @@
+/Users/abhipriyobanerjee/Question2/bin/Debug/net7.0/Question2
+/Users/abhipriyobanerjee/Question2/bin/Debug/net7.0/Question2.deps.json
+/Users/abhipriyobanerjee/Question2/bin/Debug/net7.0/Question2.runtimeconfig.json
+/Users/abhipriyobanerjee/Question2/bin/Debug/net7.0/Question2.dll
+/Users/abhipriyobanerjee/Question2/bin/Debug/net7.0/Question2.pdb
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.csproj.AssemblyReference.cache
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.AssemblyInfoInputs.cache
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.AssemblyInfo.cs
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.csproj.CoreCompileInputs.cache
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.dll
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/refint/Question2.dll
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.pdb
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/Question2.genruntimeconfig.cache
+/Users/abhipriyobanerjee/Question2/obj/Debug/net7.0/ref/Question2.dll
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/bin/Debug/net7.0/Question2
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/bin/Debug/net7.0/Question2.deps.json
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/bin/Debug/net7.0/Question2.runtimeconfig.json
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/bin/Debug/net7.0/Question2.dll
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/bin/Debug/net7.0/Question2.pdb
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.csproj.AssemblyReference.cache
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.AssemblyInfoInputs.cache
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.AssemblyInfo.cs
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.csproj.CoreCompileInputs.cache
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.dll
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/refint/Question2.dll
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.pdb
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/Question2.genruntimeconfig.cache
+/Users/abhipriyobanerjee/Documents/Writer Minds/Anandu/Alen/Question2/obj/Debug/net7.0/ref/Question2.dll
